@@ -1,0 +1,1 @@
+public class GR86 extends Type {}

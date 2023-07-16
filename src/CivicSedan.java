@@ -1,0 +1,1 @@
+public class CivicSedan extends Type {}

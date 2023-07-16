@@ -1,0 +1,1 @@
+public class Challenger extends Type {}

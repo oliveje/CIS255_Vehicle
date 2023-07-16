@@ -1,0 +1,1 @@
+public class AccordCoupe extends Type {}

@@ -1,0 +1,1 @@
+public class Ram250 extends Type {}

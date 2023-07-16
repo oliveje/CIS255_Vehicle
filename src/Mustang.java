@@ -1,0 +1,1 @@
+public class Mustang extends Type {}

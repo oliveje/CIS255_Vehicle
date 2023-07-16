@@ -1,0 +1,1 @@
+public class F150 extends Type {}
