@@ -1,1 +1,1 @@
-public class Ram250 extends Type {}
+public class Ram2500 extends Type {}
