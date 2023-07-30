@@ -10,11 +10,18 @@ Initial documents for Task 1 - PNG files of the classes and design
  7. Vehicle_UML_YearClass_v1.png
  8. Vehicle_UML_ColorClass_v1.png
 
-Initial documents for Task 1 - PNG files of the classes and design 
+Updated documents for Task 2 - PNG files of the classes and design 
  1. Vehicle_UML_FullDesign.png - redesign of first UML Vehicle_UML_BasicDesign file with added memebers and scope
  2. Vehicle_UML_VehicleMenuClass.png - includes eNums
  3. Vehicle_UML_Storageclass.png
  4. Vehicle_UML_Typeclass.png - includes eNums
  5. Remaining files are for all the Model Classes - 33 seperate files for the model classes 
     
- 
+Added/Updated documents for Task 3 - PNG files of the classes and design - updated 7/30/2023
+ 1. Vehicle_UML_FullDesign.png - redesign of first UML Vehicle_UML_BasicDesign file with added memebers and scope
+ 2. Vehicle_UML_Vehicle.png - includes eNums
+ 3. Vehicle_UML_CIS255_Vehicle.png - includes eNums
+ 5. Vehicle_UML_VehicleType.png
+ 6. Vehicle_UML_Storage.png
+ 8. Vehicle_UML_FileHandler.png
+ 9. Remaining files are for all the Model Classes - 30 seperate files for the model classes
