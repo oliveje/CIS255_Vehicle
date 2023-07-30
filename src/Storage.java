@@ -1,10 +1,18 @@
-import java.util.Scanner;
 import java.util.ArrayList;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.util.List;
 
-public class Storage extends ArrayList {
+public class Storage {
+    private List<Vehicle> vehicles;
 
-   public void toCsv (){};
-      
- }     
+    public Storage() {
+        vehicles = new ArrayList<>();
+    }
+
+    public void addVehicle(Vehicle vehicle) {
+        vehicles.add(vehicle);
+    }
+
+    public List<Vehicle> getVehicles() {
+        return vehicles;
+    }
+}

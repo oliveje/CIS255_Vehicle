@@ -1,1 +1,5 @@
-public class Type extends Vehicle {}
+ public enum Type {
+        SEDAN,
+        COUPE,
+        TRUCK
+    }
